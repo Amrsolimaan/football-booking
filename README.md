@@ -23,5 +23,12 @@ Java (لغة برمجة التطبيق)
 
 Android SDK (تطوير واجهات Android)
 
+https://github.com/Amrsolimaan/football-booking
+
+## 📱 تحميل التطبيق
+
+📥 [تحميل تطبيق Android (APK)](https://github.com/Amrsolimaan/football-booking/raw/main/app-debug.apk)
+
+
 JSON (لتخزين ونقل البيانات)
 
