@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="الصفحة الرئيسية" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@android:drawable/ic_menu_mapmode"
+            android:title="الخريطة" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="حسابي" />
+    </group>
+
+    <item android:title="أخرى">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@android:drawable/ic_menu_preferences"
+                android:title="الإعدادات" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="عن التطبيق" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@android:drawable/ic_lock_power_off"
+                android:title="تسجيل الخروج" />
+        </menu>
+    </item>
+</menu>

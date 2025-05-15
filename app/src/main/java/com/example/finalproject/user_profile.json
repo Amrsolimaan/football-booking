@@ -1,0 +1,9 @@
+{
+  "id": "12345",
+  "name": "Amr Soliman",
+  "phone": "01234567890",
+  "address": "Cairo, Egypt",
+  "email": "amr.soliman@example.com",
+  "password": "hashedPassword123",
+  "profileImage": ""
+}
