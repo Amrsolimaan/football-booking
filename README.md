@@ -27,7 +27,7 @@ https://github.com/Amrsolimaan/football-booking
 
 ## 📱 تحميل التطبيق
 
-📥 [تحميل تطبيق Android (APK)](https://github.com/Amrsolimaan/football-booking/raw/main/app-debug.apk)
+📥 [تحميل تطبيق Android (APK)](https://github.com/Amrsolimaan/football-booking/releases/tag/untagged-e7780f36cd35f079a3e8/app-release.apk)
 
 
 JSON (لتخزين ونقل البيانات)
